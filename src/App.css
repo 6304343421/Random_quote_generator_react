@@ -1,6 +1,6 @@
 .App{
   justify-content: center;
-  padding-left: 35%;
+  padding-left: 30%;
   height: auto;
   background-color: rgb(2, 92, 92);
 }
@@ -8,12 +8,14 @@
   padding-top: 40px;
   font-size: xx-large;
   color:white;
+  text-align: left;
 }
 
 .default-btn{
   font-size: x-large;
   color: brown;
   background-color: aliceblue;
+  text-align: center;
 }
 .default-btn:hover{
   background-color:chocolate;
